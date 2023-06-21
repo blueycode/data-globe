@@ -40,7 +40,7 @@ This repository makes part of Bluey Code's project. Its entire development proce
 ### To-do List
 
 - [x] Project setup *(cleanup, metadata, favicon)* 
-- [ ] Develop navbar
+- [x] Develop navbar
 - [ ] Develop banner
 - [ ] Develop country list *(includes search feature and animation)*
 - [ ] Develop country details page
