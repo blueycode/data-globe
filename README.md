@@ -9,11 +9,11 @@
     <em>A simple Next.js app to browse information about countries. Powered by restcountries.</em>
     <br />
     <br />
-    <a href="project_demo_link">View Demo</a>
+    <a href="https://data-globe.vercel.app">View Demo</a>
     ·
-    <a href="https://github.com/blueycode/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/blueycode/data-globe/issues">Report Bug</a>
     ·
-    <a href="https://github.com/blueycode/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/blueycode/data-globe/issues">Request Feature</a>
   </p>
 </div>
 
@@ -49,7 +49,7 @@ This repository makes part of Bluey Code's project. Its entire development proce
 <!-- LIVE DEMO -->
 ### Live Demo
 
-You can check a running version of this project <a href="project_demo_link">here</a>
+You can check a running version of this project <a href="https://data-globe.vercel.app">here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +68,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/blueycode/repo_name.git
+   git clone https://github.com/blueycode/data-globe.git
    ```
 2. Install NPM packages
    ```sh
