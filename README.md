@@ -42,7 +42,7 @@ This repository makes part of Bluey Code's project. Its entire development proce
 - [x] Project setup *(cleanup, metadata, favicon)* 
 - [x] Develop navbar
 - [x] Develop banner
-- [ ] Develop country list *(includes search feature and animation)*
+- [x] Develop country list *(includes search feature and animation)*
 - [ ] Develop country details page
 - [ ] Deploy on Vercel
 
