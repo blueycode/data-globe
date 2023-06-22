@@ -43,8 +43,8 @@ This repository makes part of Bluey Code's project. Its entire development proce
 - [x] Develop navbar
 - [x] Develop banner
 - [x] Develop country list *(includes search feature and animation)*
-- [ ] Develop country details page
-- [ ] Deploy on Vercel
+- [x] Develop country details page
+- [x] Deploy on Vercel
 
 <!-- LIVE DEMO -->
 ### Live Demo
